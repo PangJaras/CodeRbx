@@ -456,7 +456,7 @@
             end
             
             -- Apply blur effect
-            blurEffect:SetIntensity(0.4) -- 40% blur intensity
+            blurEffect:SetIntensity(0) -- 40% blur intensity
             
         else
             -- Hide UI
